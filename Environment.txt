@@ -1,0 +1,13 @@
+Install sass:
+npm i sass --save-dev
+Create React App:
+npx create-react-app myapp --template=typescript
+Install ANT DESIGN:
+npm install antd
+INSTALL REACT ICONS:
+npm install react-icons --save
+INSTALL REACT ROUTER:
+npm i react-router-dom
+INSTALL REDUX AND REDUX TOOLKIT:
+npm i react-redux @reduxjs/toolkit
+Install Redux DevTools Extension On Chrome
